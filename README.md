@@ -1,2 +1,3 @@
 # Estudo-Quarkus
- Realizar estudo da funcionalidade do Quarkus
+ Realizar estudos no QUARKUS
+ 
