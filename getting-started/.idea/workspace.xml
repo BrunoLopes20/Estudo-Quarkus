@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60633e5e-7d2b-4961-bd30-5c4f151bb882" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/docker/Dockerfile.jvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/docker/Dockerfile.legacy-jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/docker/Dockerfile.native" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/docker/Dockerfile.native-distroless" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/acme/getting/started/model/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/acme/getting/started/resource/CarResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/resources/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/acme/getting/started/GreetingResourceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/acme/getting/started/NativeGreetingResourceIT.java" beforeDir="false" />
-    </list>
+    <list default="true" id="60633e5e-7d2b-4961-bd30-5c4f151bb882" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +81,7 @@
       <updated>1636498926191</updated>
       <workItem from="1636498929917" duration="1550000" />
       <workItem from="1636500843875" duration="4075000" />
+      <workItem from="1636563275700" duration="76000" />
     </task>
     <servers />
   </component>
@@ -117,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
