@@ -1,7 +1,6 @@
 package org.acme.getting.started.resource;
 
 import org.acme.getting.started.model.Car;
-
 import javax.transaction.Transactional;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
