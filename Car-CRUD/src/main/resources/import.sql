@@ -1,2 +1,2 @@
-INSERT INTO Car (Id)
-VALUES (1);
+//INSERT INTO Car (Id)
+//VALUES (1);
